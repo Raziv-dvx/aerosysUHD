@@ -2,7 +2,7 @@
 
 > **Alpha - V1 Pre-Build** | *Beautiful System Monitoring for Windows*
 
-![AeroSys HUD](docs/screenshots/main-dark.png)
+![AeroSys HUD](docs/screenshots/Screenshot(3).png)
 
 AeroSys HUD is a modern, minimalist system monitoring application with beautiful glassmorphism UI, real-time performance metrics, and a customizable floating widget. Built with Python and PyQt5 for Windows.
 
